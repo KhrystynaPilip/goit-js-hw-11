@@ -5,7 +5,7 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 
 export function searchImages(query) {
   const URL = 'https://pixabay.com/api/';
-  const API_KEY = '48224308-350e5a69bb04eb56206fb25fd';
+  const API_KEY = '48329530-69c109c2641b284f345f462d9';
   const searchParams = new URLSearchParams({
     key: API_KEY,
     q: query,
